@@ -52,8 +52,7 @@
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
-            <li>React (if applicable)</li>
-            <li>Node.js (if applicable)</li>
+            
         </ul>
     </section>
 
